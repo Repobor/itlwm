@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: itlwm.xcodeproj # path to your xcodeproj folder
+xcode_scheme: itlwm
+xcode_destination: platform=macOS
